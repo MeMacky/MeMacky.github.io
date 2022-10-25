@@ -80,7 +80,7 @@ aside > h1, li{
     section{
         display:flex;
         flex-direction:column;
-        height:110rem;
+        height:115rem;
     }
 
     img{
