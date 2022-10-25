@@ -55,7 +55,7 @@ img:hover{
     transform:scale(1.1);
 }
 
-@media only screen and (max-width: 768px){
+@media only screen and (max-width: 320px){
     header > h1{
         display:block;
     }
@@ -69,7 +69,7 @@ img:hover{
     .container{
         flex-direction:column;
         align-items:center;
-        margin-top:50%;
+        margin-top:60%;
     }
 
     img{
