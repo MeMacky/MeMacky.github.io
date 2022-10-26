@@ -55,7 +55,7 @@ img:hover{
     transform:scale(1.1);
 }
 
-@media only screen and (max-width: 320px){
+@media only screen and (max-width: 400px){
     header > h1{
         display:block;
     }
